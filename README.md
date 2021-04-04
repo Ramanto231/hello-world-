@@ -1,2 +1,3 @@
 # hello-world-
 First repository which organizes a single project, contains folder and files, videos, and so on. 
+Hey its Ramon, just got done learning about branches and commits. There is a main branch and then other branches which I name myself; a new branch is a seperate file which holds changes that I'll like to maybe put into my main branch later on. The "readme-edits" is the name to this new branch that im writing these sentences on, cant expplain what happens next cause I haven't learned enough. A commit are saved changes that were put into the other branch (not the main branch) which is later if wanting to put into the main branch. 
